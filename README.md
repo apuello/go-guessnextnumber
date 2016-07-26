@@ -21,16 +21,16 @@ Specs for Version: 0.0.1
 
 I developed this game after reading taking the [Tour of Go](https://tour.golang.org) -  **I highly recommend it!**
 
-In this v0.0.1 you can find the use of:
-1. Packages
-2. Variables
-3. Functions
-4. Flow Control - For(ever)
-5. Structs
-6. Pointers
-7. Arrays
-8. Functions
-9. and more!
+In this v0.0.1 you can find the use of: 
+1. Packages 
+2. Variables 
+3. Functions 
+4. Flow Control - For(ever) 
+5. Structs 
+6. Pointers 
+7. Arrays 
+8. Functions 
+9. and more! 
 
 **#TODO: Version: 0.0.2**
 
