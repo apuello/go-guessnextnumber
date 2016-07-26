@@ -95,7 +95,9 @@ func ask()(string, int){
 func giveMeTheRandoms() []int{
 	r := rand.New(rand.NewSource(99))
 	ranNumber := r.Perm(10)
-	return ranNumber
+	//Slicing the first 5 random numbers
+	var takeFirstFive []int = ranNumber[:6]
+	return takeFirstFive
 }
 
 //play func is hte heart of this program
