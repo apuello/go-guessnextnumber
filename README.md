@@ -19,8 +19,20 @@ Specs for Version: 0.0.1
 	{"name":"avel", "age":32, "level":5, "lives":5, "points":30},
 		
 
+I developed this game after reading taking the [Tour of Go](https://tour.golang.org) -  **I highly recommend it!**
 
-**#TODO:**
+In this v0.0.1 you can find the use of:
+Packages
+Variables
+Functions
+Flow Control - For(ever)
+Structs
+Pointers
+Arrays
+Functions
+
+
+**#TODO: Version: 0.0.2**
 
 1. Save Player's info in a DB(Probably PostgreSQL)
 2. Create a web interface
