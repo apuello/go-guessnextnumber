@@ -1,5 +1,5 @@
 **#GuessNextNumber**
-**GuessNextNumber** is a game idea created by Avelino Puello for the only purpose of learning/practising the GO programming language.
+ is a game idea created by Avelino Puello for the only purpose of learning/practising the GO programming language.
 
 The Game consists in guessing if the next random number thrown by the system is lower or greater than 5
 
