@@ -15,7 +15,7 @@ Specs for Version: 0.0.1
 7. if you lose all your lives then the game is over
 8. once you reach the last level(less keep it to 5 just to save time when testing) you get a congrats message stating your score
 9. Should give you output on every guess, so that players can see the random number, level, lives they have and see their progress.
-10 Once game is over, it gives you an JSON output format like below
+10. Once game is over, it gives you an JSON output format like below
 	{"name":"avel", "age":32, "level":5, "lives":5, "points":30},
 		
 
@@ -30,7 +30,9 @@ I developed this game after reading taking the [Tour of Go](https://tour.golang.
 	6. Pointers 
 	7. Arrays 
 	8. Functions 
-	9. and more! 
+	9. Slices
+	10. Packages
+	11. and more! 
 
 **#TODO: Version: 0.0.2**
 
